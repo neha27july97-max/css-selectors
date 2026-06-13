@@ -1,0 +1,44 @@
+body{
+background-color: #f8961e;
+}
+
+.highlighter{
+    color: blue;
+}
+
+#bglime{
+    background-color: #5af003;
+
+}
+span{
+    color: red;
+}
+
+
+.highlighter{
+    color: blue;
+}
+
+p{
+    color: white;
+}
+#para{
+    color: #5af003;
+}
+p{
+    color: white;
+}
+#paraspan span{
+    color:black;
+    font-size:50px;
+}
+
+h5{
+color: black;
+}
+
+ol li span{
+color: blue;
+background-color: yellow;
+
+}
